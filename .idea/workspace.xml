@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2936f66d-dea4-40f6-9127-4da70e88e99b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHudduOFTOMGrLKp6NKlgNkWBW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../a-island-simulator-java-version" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.oilman.Main" />
+      <module name="BWGjava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2936f66d-dea4-40f6-9127-4da70e88e99b" name="Default Changelist" comment="" />
+      <created>1584508428645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584508428645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1584511319615">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="921" y="583" key="#com.intellij.ide.util.MemberChooser/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584511319615" />
+    <state x="896" y="622" key="FileChooserDialogImpl" timestamp="1584510943148">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="896" y="622" key="FileChooserDialogImpl/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584510943148" />
+    <state width="1596" height="257" key="GridCell.Tab.0.bottom" timestamp="1584526439222">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1596" height="257" key="GridCell.Tab.0.bottom/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584526439222" />
+    <state width="1596" height="257" key="GridCell.Tab.0.center" timestamp="1584526439222">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1596" height="257" key="GridCell.Tab.0.center/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584526439222" />
+    <state width="1596" height="257" key="GridCell.Tab.0.left" timestamp="1584526439222">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1596" height="257" key="GridCell.Tab.0.left/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584526439222" />
+    <state width="1596" height="257" key="GridCell.Tab.0.right" timestamp="1584526439222">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1596" height="257" key="GridCell.Tab.0.right/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584526439222" />
+    <state x="772" y="521" width="670" height="676" key="search.everywhere.popup" timestamp="1584508804029">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="772" y="521" width="670" height="676" key="search.everywhere.popup/367.1600.1920.1040/0.0.2560.1560@0.0.2560.1560" timestamp="1584508804029" />
+  </component>
+</project>
